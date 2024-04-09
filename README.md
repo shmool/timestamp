@@ -1,5 +1,18 @@
 # Timestamp
 
+Hi There! 
+Timestamp is a Web App for simply logging custom events. When it's done you'll be able to use it! 
+
+I'm developing this app from scratch, from idea to deployment, with Angular and Firebase, **while posting about my progress every day**. It's a 15-day challenge I've taken on myself.
+
+Check out my pages where I post mockups, screenshots, code explained and more: 
+
+[My challenge page on Facebook](https://www.facebook.com/profile/61557587087320)
+
+[My X (formerly Twitter) profile](https://twitter.com/ShmuelaJ)
+
+# About this project
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
 ## Development server
